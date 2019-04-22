@@ -4,3 +4,4 @@ ipywidgets
 pandas
 datetime
 matplotlib
+IPython
