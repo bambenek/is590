@@ -3,3 +3,4 @@ numpy
 ipywidgets
 pandas
 datetime
+matplotlib
